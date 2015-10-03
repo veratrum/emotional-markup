@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/javaFlacEncoder-0.3.1-all/javaFlacEncoder-0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/json-simple/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Applications/Eclipse/EclipsePortable/Data/other-shit/httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
